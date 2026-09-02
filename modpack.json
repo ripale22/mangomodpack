@@ -80,7 +80,7 @@
     },
     {
       "name": "geckolib-fabric-1.21.1-4.9.2.jar",
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dnJdtm0u/geckolib-fabric-1.21.1-4.9.2.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/geckolib-fabric-1.21.1-4.9.2.jar",
       "sha1": "b95b1d631baeada54c6773ca8f6ede40d57fea46"
     },
     {
@@ -149,6 +149,11 @@
       "sha1": "0f0112aaeb24ab7d9c36c47310e630914a555bff"
     },
     {
+      "name": "skinrestorer-2.10.0+1.21-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/BmUANmui/skinrestorer-2.10.0%2B1.21-fabric.jar",
+      "sha1": "b97e0dc80690effd7e183d2076b4fdb2299f06cb"
+    },
+    {
       "name": "sodium-fabric-0.8.13+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
@@ -175,7 +180,7 @@
     },
     {
       "name": "xaerominimap-fabric-1.21.1-26.4.2.jar",
-      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Tx54V6kI/xaerominimap-fabric-1.21.1-26.4.2.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/xaerominimap-fabric-1.21.1-26.4.2.jar",
       "sha1": "9293ef9b2626ae3180625c003290a838879cc0b4"
     },
     {
@@ -190,10 +195,10 @@
     },
     {
       "name": "zoomify-2.15.2+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/zoomify-2.15.2%2B1.21.1.jar",
       "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T17:54:16.392Z"
+  "updatedAt": "2026-09-02T18:25:07.658Z"
 }
