@@ -69,8 +69,13 @@
       "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c"
     },
     {
+      "name": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
+      "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5"
+    },
+    {
       "name": "ferritecore-7.0.3-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/ferritecore-7.0.3-fabric.jar",
       "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad"
     },
     {
@@ -85,7 +90,7 @@
     },
     {
       "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
       "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5"
     },
     {
@@ -115,7 +120,7 @@
     },
     {
       "name": "medievalweapons-1.6.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/medievalweapons-1.6.1.jar",
+      "url": "https://cdn.modrinth.com/data/C37HUu02/versions/fMIp8vXf/medievalweapons-1.6.1.jar",
       "sha1": "74d3c54712edf3fc3a4a6e929d97bc3b70eef9e2"
     },
     {
@@ -135,17 +140,17 @@
     },
     {
       "name": "naturalist-2.0.3-fabric-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/naturalist-2.0.3-fabric-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/DwMaTECx/naturalist-2.0.3-fabric-1.21.1.jar",
       "sha1": "0f12c41e514a553a3188699112761f2d6b6521e5"
     },
     {
       "name": "onlyhammersandexcavators-1.21.1-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/onlyhammersandexcavators-1.21.1-1.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/OwtcCsNI/versions/33NfvM5q/1.21.1-1.21.1-1.0.0.jar",
       "sha1": "0f0112aaeb24ab7d9c36c47310e630914a555bff"
     },
     {
       "name": "sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
     },
     {
@@ -160,7 +165,7 @@
     },
     {
       "name": "trinkets-3.10.0.jar",
-      "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/trinkets-3.10.0.jar",
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
     },
     {
@@ -179,11 +184,16 @@
       "sha1": "ebcaef4da6bc5feab9af80d31223e1833960e71d"
     },
     {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
+    },
+    {
       "name": "zoomify-2.15.2+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/zoomify-2.15.2%2B1.21.1.jar",
       "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T16:58:29.491Z"
+  "updatedAt": "2026-09-02T17:01:45.076Z"
 }
