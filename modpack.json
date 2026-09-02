@@ -1,6 +1,6 @@
 {
   "modpackName": "mangoZzz",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "description": "Modpack sincronizado automáticamente con GitHub",
   "minecraftVersion": "1.21.1",
   "loader": {
@@ -94,11 +94,6 @@
       "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50"
     },
     {
-      "name": "lambdynamiclights-4.8.11+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
-      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
-    },
-    {
       "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
       "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
@@ -175,5 +170,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T04:53:49.743Z"
+  "updatedAt": "2026-09-02T04:57:00.453Z"
 }
