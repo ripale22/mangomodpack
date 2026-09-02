@@ -29,11 +29,6 @@
       "sha1": "c2f992081bdc4795ed6d87771a3b5f7c71103785"
     },
     {
-      "name": "appleskin-fabric-mc1.21-3.0.6.jar",
-      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar",
-      "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb"
-    },
-    {
       "name": "balm-fabric-1.21.1-21.0.65.jar",
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/VynBiUHt/balm-fabric-1.21.1-21.0.65.jar",
       "sha1": "26d3c9bb16cee40bf76371680e248d2f9c7f4690"
@@ -55,7 +50,7 @@
     },
     {
       "name": "entityculling-fabric-1.10.5-mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/entityculling-fabric-1.10.5-mc1.21.1.jar",
       "sha1": "7e8c9c44049e6575e75d1fe38d6006306b8d5623"
     },
     {
@@ -70,17 +65,17 @@
     },
     {
       "name": "geckolib-fabric-1.21.1-4.9.2.jar",
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dnJdtm0u/geckolib-fabric-1.21.1-4.9.2.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/geckolib-fabric-1.21.1-4.9.2.jar",
       "sha1": "b95b1d631baeada54c6773ca8f6ede40d57fea46"
     },
     {
       "name": "immersive_armors-1.7.6+1.21.1-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/4m0lwLNO/immersive_armors-1.7.6%2B1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/immersive_armors-1.7.6%2B1.21.1-fabric.jar",
       "sha1": "0e0636fc11a0a58a65ba8a932d51316fe2150f00"
     },
     {
       "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
       "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5"
     },
     {
@@ -90,7 +85,7 @@
     },
     {
       "name": "krypton-0.2.8.jar",
-      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/krypton-0.2.8.jar",
       "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50"
     },
     {
@@ -100,7 +95,7 @@
     },
     {
       "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
       "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
     },
     {
@@ -115,7 +110,7 @@
     },
     {
       "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
       "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
     },
     {
@@ -150,7 +145,7 @@
     },
     {
       "name": "travelersbackpack-fabric-1.21.1-10.1.39.jar",
-      "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/npKsvQvE/travelersbackpack-fabric-1.21.1-10.1.39.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/travelersbackpack-fabric-1.21.1-10.1.39.jar",
       "sha1": "d74374cfe5ef7d4afb4a6a3c2c9f48e41f334a8d"
     },
     {
@@ -165,7 +160,7 @@
     },
     {
       "name": "xaerominimap-fabric-1.21.1-26.4.2.jar",
-      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Tx54V6kI/xaerominimap-fabric-1.21.1-26.4.2.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/xaerominimap-fabric-1.21.1-26.4.2.jar",
       "sha1": "9293ef9b2626ae3180625c003290a838879cc0b4"
     },
     {
@@ -175,5 +170,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T05:14:49.028Z"
+  "updatedAt": "2026-09-02T05:18:49.125Z"
 }
