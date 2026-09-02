@@ -44,6 +44,11 @@
       "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882"
     },
     {
+      "name": "carryon-fabric-1.21.1-2.2.6.13.jar",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/iDV62vEU/carryon-fabric-1.21.1-2.2.6.13.jar",
+      "sha1": "db8b128f68588fca639310e1ad84ce61c3d2ae53"
+    },
+    {
       "name": "cloth-config-15.0.140-fabric.jar",
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
@@ -175,5 +180,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T05:25:45.543Z"
+  "updatedAt": "2026-09-02T15:15:35.285Z"
 }
