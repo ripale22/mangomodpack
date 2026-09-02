@@ -1,6 +1,6 @@
 {
   "modpackName": "mangoZzz",
-  "version": "1.8.2",
+  "version": "1.8.1",
   "description": "Modpack sincronizado automáticamente con GitHub",
   "minecraftVersion": "1.21.1",
   "loader": {
@@ -170,5 +170,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T04:57:00.453Z"
+  "updatedAt": "2026-09-02T04:57:59.939Z"
 }
