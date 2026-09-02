@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-09-02",
+  "releaseNotes": "Versión inicial de Minecraft MiniLauncher con auto-sincronización de modpacks y optimización ultra ligera.",
+  "linuxUrl": "https://github.com/ripale22/mangomodpack/releases/download/v1.0.0/Minecraft.MiniLauncher-1.0.0.AppImage",
+  "windowsUrl": "https://github.com/ripale22/mangomodpack/releases/download/v1.0.0/Minecraft.MiniLauncher.Setup.1.0.0.exe",
+  "releaseUrl": "https://github.com/ripale22/mangomodpack/releases"
+}
