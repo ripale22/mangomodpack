@@ -85,7 +85,7 @@
     },
     {
       "name": "jei-1.21.1-fabric-19.51.0.417.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/jei-1.21.1-fabric-19.51.0.417.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HiKjYsTR/jei-1.21.1-fabric-19.51.0.417.jar",
       "sha1": "ace6b52b1dc79c1c6d620d3ae94945e4060412e5"
     },
     {
@@ -95,12 +95,12 @@
     },
     {
       "name": "lambdynamiclights-4.8.11+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
       "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
     },
     {
       "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
       "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "name": "medievalweapons-1.6.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/medievalweapons-1.6.1.jar",
+      "url": "https://cdn.modrinth.com/data/C37HUu02/versions/fMIp8vXf/medievalweapons-1.6.1.jar",
       "sha1": "74d3c54712edf3fc3a4a6e929d97bc3b70eef9e2"
     },
     {
@@ -170,5 +170,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T05:07:40.728Z"
+  "updatedAt": "2026-09-02T05:07:49.614Z"
 }
