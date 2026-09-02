@@ -105,7 +105,7 @@
     },
     {
       "name": "lithostitched-1.7.13-fabric-21.1.jar",
-      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/JWtSqSeY/lithostitched-1.7.13-fabric-21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lithostitched-1.7.13-fabric-21.1.jar",
       "sha1": "cc4494359564dc71e149df7b981d9c4d4f3260a7"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "name": "sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "name": "trinkets-3.10.0.jar",
-      "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/trinkets-3.10.0.jar",
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
     },
     {
@@ -170,5 +170,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T05:07:49.614Z"
+  "updatedAt": "2026-09-02T05:08:51.359Z"
 }
