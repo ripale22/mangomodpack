@@ -1,6 +1,6 @@
 {
   "modpackName": "mangoZzz",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "description": "Modpack sincronizado automáticamente con GitHub",
   "minecraftVersion": "1.21.1",
   "loader": {
@@ -75,7 +75,7 @@
     },
     {
       "name": "ferritecore-7.0.3-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/ferritecore-7.0.3-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
       "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "name": "lambdynamiclights-4.8.11+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
       "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "name": "sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
     },
     {
@@ -165,12 +165,12 @@
     },
     {
       "name": "trinkets-3.10.0.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/trinkets-3.10.0.jar",
+      "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
     },
     {
       "name": "waystones-fabric-1.21.1-21.1.42.jar",
-      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Ado0lAPN/waystones-fabric-1.21.1-21.1.42.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/waystones-fabric-1.21.1-21.1.42.jar",
       "sha1": "281fead2fb284b0544ad17ba021a4c3656dfd5a4"
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "name": "xaeroworldmap-fabric-1.21.1-1.45.0.jar",
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/i80CxP4n/xaeroworldmap-fabric-1.21.1-1.45.0.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/xaeroworldmap-fabric-1.21.1-1.45.0.jar",
       "sha1": "ebcaef4da6bc5feab9af80d31223e1833960e71d"
     },
     {
@@ -190,10 +190,10 @@
     },
     {
       "name": "zoomify-2.15.2+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/zoomify-2.15.2%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
       "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T17:01:45.076Z"
+  "updatedAt": "2026-09-02T17:54:16.392Z"
 }
