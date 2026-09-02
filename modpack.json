@@ -1,7 +1,7 @@
 {
   "modpackName": "mangoZzz",
   "version": "1.8.0",
-  "description": "Fabric 1.21.1 liviano: JEI, Waystones, hammers 3x3, Immersive Armors, MedievalWeapons, Croptopia, Terralith, Traveler Backpack.",
+  "description": "Modpack sincronizado automáticamente con GitHub",
   "minecraftVersion": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -169,5 +169,6 @@
       "sha1": "ebcaef4da6bc5feab9af80d31223e1833960e71d"
     }
   ],
-  "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip"
+  "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
+  "updatedAt": "2026-09-02T04:32:34.461Z"
 }
