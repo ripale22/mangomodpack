@@ -85,7 +85,7 @@
     },
     {
       "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
       "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "name": "lambdynamiclights-4.8.11+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lambdynamiclights-4.8.11%2B1.21.1.jar",
       "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "name": "medievalweapons-1.6.1.jar",
-      "url": "https://cdn.modrinth.com/data/C37HUu02/versions/fMIp8vXf/medievalweapons-1.6.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/medievalweapons-1.6.1.jar",
       "sha1": "74d3c54712edf3fc3a4a6e929d97bc3b70eef9e2"
     },
     {
@@ -135,12 +135,12 @@
     },
     {
       "name": "naturalist-2.0.3-fabric-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/DwMaTECx/naturalist-2.0.3-fabric-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/naturalist-2.0.3-fabric-1.21.1.jar",
       "sha1": "0f12c41e514a553a3188699112761f2d6b6521e5"
     },
     {
       "name": "onlyhammersandexcavators-1.21.1-1.0.1.jar",
-      "url": "https://cdn.modrinth.com/data/OwtcCsNI/versions/33NfvM5q/1.21.1-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/onlyhammersandexcavators-1.21.1-1.0.1.jar",
       "sha1": "0f0112aaeb24ab7d9c36c47310e630914a555bff"
     },
     {
@@ -177,8 +177,13 @@
       "name": "xaeroworldmap-fabric-1.21.1-1.45.0.jar",
       "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/i80CxP4n/xaeroworldmap-fabric-1.21.1-1.45.0.jar",
       "sha1": "ebcaef4da6bc5feab9af80d31223e1833960e71d"
+    },
+    {
+      "name": "zoomify-2.15.2+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
+      "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T15:15:35.285Z"
+  "updatedAt": "2026-09-02T16:58:29.491Z"
 }
