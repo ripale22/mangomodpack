@@ -5,7 +5,7 @@
   "minecraftVersion": "1.21.1",
   "loader": {
     "type": "fabric",
-    "version": "0.16.10"
+    "version": "0.19.5"
   },
   "mods": [
     {
@@ -170,5 +170,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-02T04:32:34.461Z"
+  "updatedAt": "2026-09-02T04:45:54.023Z"
 }
