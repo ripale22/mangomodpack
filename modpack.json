@@ -54,6 +54,11 @@
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
     },
     {
+      "name": "collective-1.21.1-8.39.jar",
+      "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/4XRlrKGN/collective-1.21.1-8.39.jar",
+      "sha1": "b1153f03c97bccaa6bc11d6199f07f16ef4318ff"
+    },
+    {
       "name": "croptopia-refabricated-0.1.0+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/unvZ692M/versions/1Sj2O4n1/croptopia-refabricated-0.1.0%2B1.21.1.jar",
       "sha1": "e62b8d99e93cb013ed69061e159f47514033f46c"
@@ -100,12 +105,12 @@
     },
     {
       "name": "jei-1.21.1-fabric-19.51.0.417.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/jei-1.21.1-fabric-19.51.0.417.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HiKjYsTR/jei-1.21.1-fabric-19.51.0.417.jar",
       "sha1": "ace6b52b1dc79c1c6d620d3ae94945e4060412e5"
     },
     {
       "name": "krypton-0.2.8.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/krypton-0.2.8.jar",
+      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar",
       "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50"
     },
     {
@@ -120,7 +125,7 @@
     },
     {
       "name": "lithostitched-1.7.13-fabric-21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lithostitched-1.7.13-fabric-21.1.jar",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/JWtSqSeY/lithostitched-1.7.13-fabric-21.1.jar",
       "sha1": "cc4494359564dc71e149df7b981d9c4d4f3260a7"
     },
     {
@@ -145,7 +150,7 @@
     },
     {
       "name": "naturalist-2.0.3-fabric-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/naturalist-2.0.3-fabric-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/DwMaTECx/naturalist-2.0.3-fabric-1.21.1.jar",
       "sha1": "0f12c41e514a553a3188699112761f2d6b6521e5"
     },
     {
@@ -160,12 +165,12 @@
     },
     {
       "name": "skinrestorer-2.10.0+1.21-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/skinrestorer-2.10.0%2B1.21-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/BmUANmui/skinrestorer-2.10.0%2B1.21-fabric.jar",
       "sha1": "b97e0dc80690effd7e183d2076b4fdb2299f06cb"
     },
     {
       "name": "sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
     },
     {
@@ -205,7 +210,7 @@
     },
     {
       "name": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
       "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
     },
     {
@@ -215,5 +220,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-06T03:50:43.885Z"
+  "updatedAt": "2026-09-06T03:53:28.875Z"
 }
