@@ -204,6 +204,11 @@
       "sha1": "63d372625fcd4d6c517fff74952158bdfc482b42"
     },
     {
+      "name": "torchmaster-fabric-1.21.1-21.1.11.jar",
+      "url": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/bhibJMYz/torchmaster-fabric-1.21.1-21.1.11.jar",
+      "sha1": "97a64bef09b920e7c0adb424107a917f203f6308"
+    },
+    {
       "name": "travelersbackpack-fabric-1.21.1-10.1.39.jar",
       "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/npKsvQvE/travelersbackpack-fabric-1.21.1-10.1.39.jar",
       "sha1": "d74374cfe5ef7d4afb4a6a3c2c9f48e41f334a8d"
@@ -240,5 +245,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-07T02:29:56.969Z"
+  "updatedAt": "2026-09-07T02:31:11.140Z"
 }
