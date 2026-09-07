@@ -69,11 +69,6 @@
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
     },
     {
-      "name": "collective-1.21.1-8.39.jar",
-      "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/4XRlrKGN/collective-1.21.1-8.39.jar",
-      "sha1": "b1153f03c97bccaa6bc11d6199f07f16ef4318ff"
-    },
-    {
       "name": "croptopia-refabricated-0.1.0+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/unvZ692M/versions/1Sj2O4n1/croptopia-refabricated-0.1.0%2B1.21.1.jar",
       "sha1": "e62b8d99e93cb013ed69061e159f47514033f46c"
@@ -204,11 +199,6 @@
       "sha1": "d74374cfe5ef7d4afb4a6a3c2c9f48e41f334a8d"
     },
     {
-      "name": "treeharvester-1.21.1-9.1.jar",
-      "url": "https://cdn.modrinth.com/data/abooMhox/versions/OtzwmSlR/treeharvester-1.21.1-9.1.jar",
-      "sha1": "08abaeb2bca62538c2f33fbc42f9eead478aecee"
-    },
-    {
       "name": "trinkets-3.10.0.jar",
       "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
@@ -240,5 +230,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-07T02:02:36.736Z"
+  "updatedAt": "2026-09-07T02:03:15.508Z"
 }
