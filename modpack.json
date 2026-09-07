@@ -34,6 +34,11 @@
       "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb"
     },
     {
+      "name": "architectury-13.0.11-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Pzc2FP5K/architectury-13.0.11-fabric.jar",
+      "sha1": "18200609d4c3571c4237b50884966f6fd82431ea"
+    },
+    {
       "name": "balm-fabric-1.21.1-21.0.65.jar",
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/VynBiUHt/balm-fabric-1.21.1-21.0.65.jar",
       "sha1": "26d3c9bb16cee40bf76371680e248d2f9c7f4690"
@@ -49,6 +54,11 @@
       "sha1": "db8b128f68588fca639310e1ad84ce61c3d2ae53"
     },
     {
+      "name": "chisel-fabric-2.0.1+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/4KWv7wbN/versions/65eiEIr5/chisel-fabric-2.0.1%2Bmc1.21.1.jar",
+      "sha1": "c5b56cece90fc0cdba9b89e6f5707727b29e9a55"
+    },
+    {
       "name": "cloth-config-15.0.140-fabric.jar",
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
@@ -62,6 +72,11 @@
       "name": "croptopia-refabricated-0.1.0+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/unvZ692M/versions/1Sj2O4n1/croptopia-refabricated-0.1.0%2B1.21.1.jar",
       "sha1": "e62b8d99e93cb013ed69061e159f47514033f46c"
+    },
+    {
+      "name": "cryonicconfig-fabric-1.0.0+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/oEhQIkOs/versions/biJLv3Vb/cryonicconfig-fabric-1.0.0%2Bmc1.21.11.jar",
+      "sha1": "0d719e7f63eb7d4c14cac09dd77632596a685288"
     },
     {
       "name": "entityculling-fabric-1.10.5-mc1.21.1.jar",
@@ -220,5 +235,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-07T01:55:48.538Z"
+  "updatedAt": "2026-09-07T01:58:30.567Z"
 }
