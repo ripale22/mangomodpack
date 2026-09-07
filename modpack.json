@@ -174,6 +174,11 @@
       "sha1": "0f0112aaeb24ab7d9c36c47310e630914a555bff"
     },
     {
+      "name": "owo-lib-0.12.15.4+1.21.jar",
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
+      "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d"
+    },
+    {
       "name": "skinrestorer-2.10.0+1.21-fabric.jar",
       "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/BmUANmui/skinrestorer-2.10.0%2B1.21-fabric.jar",
       "sha1": "b97e0dc80690effd7e183d2076b4fdb2299f06cb"
@@ -230,5 +235,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-07T02:28:46.412Z"
+  "updatedAt": "2026-09-07T02:28:53.399Z"
 }
