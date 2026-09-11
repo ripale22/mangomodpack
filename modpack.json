@@ -19,6 +19,11 @@
       "sha1": "7e1b3ee0ba89b556d5a468797bb1b5f4e2b8ccb7"
     },
     {
+      "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
+    },
+    {
       "name": "ImmediatelyFast-Fabric-1.6.13+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/hZvFDqhH/ImmediatelyFast-Fabric-1.6.13%2B1.21.1.jar",
       "sha1": "b07b666b7ae2e62f8079ee60ef33f6fe4d545065"
@@ -32,6 +37,11 @@
       "name": "Terralith_1.21.x_v2.6.2.jar",
       "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/eWDLFabb/Terralith_1.21.x_v2.6.2.jar",
       "sha1": "c200e0c01f48aecd7f34c4be337d8ff65b60c2dc"
+    },
+    {
+      "name": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar",
+      "sha1": "fa0b11de088893bb14aff945d0e8efdee165457b"
     },
     {
       "name": "another_furniture-fabric-4.0.2.jar",
@@ -84,6 +94,16 @@
       "sha1": "0d719e7f63eb7d4c14cac09dd77632596a685288"
     },
     {
+      "name": "entity_model_features-3.3.5-1.21-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/wXNAvHgN/entity_model_features-3.3.5-1.21-fabric.jar",
+      "sha1": "d4ae1f29e1e97181d53621f17de25d96f3ee0060"
+    },
+    {
+      "name": "entity_texture_features-7.2.1-1.21-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Hfy3gPEK/entity_texture_features-7.2.1-1.21-fabric.jar",
+      "sha1": "dc583aaab8f47d01bbcb88c01b9cd0a65c1efd58"
+    },
+    {
       "name": "entityculling-fabric-1.10.5-mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar",
       "sha1": "7e8c9c44049e6575e75d1fe38d6006306b8d5623"
@@ -110,37 +130,37 @@
     },
     {
       "name": "gravestones-1.4.2+1.21+A.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/gravestones-1.4.2%2B1.21%2BA.jar",
+      "url": "https://cdn.modrinth.com/data/Heh3BbSv/versions/Fx2DJa18/gravestones-1.4.2%2B1.21%2BA.jar",
       "sha1": "9e2aeba2c6030d355a3fabb71c463b69dff12f2a"
     },
     {
       "name": "immersive_armors-1.7.6+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/immersive_armors-1.7.6%2B1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/4m0lwLNO/immersive_armors-1.7.6%2B1.21.1-fabric.jar",
       "sha1": "0e0636fc11a0a58a65ba8a932d51316fe2150f00"
     },
     {
       "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
       "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5"
     },
     {
       "name": "jei-1.21.1-fabric-19.51.0.417.jar",
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HiKjYsTR/jei-1.21.1-fabric-19.51.0.417.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/jei-1.21.1-fabric-19.51.0.417.jar",
       "sha1": "ace6b52b1dc79c1c6d620d3ae94945e4060412e5"
     },
     {
       "name": "krypton-0.2.8.jar",
-      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/krypton-0.2.8.jar",
       "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50"
     },
     {
       "name": "lambdynamiclights-4.8.11+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lambdynamiclights-4.8.11%2B1.21.1.jar",
       "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
     },
     {
       "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
       "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
     },
     {
@@ -155,12 +175,12 @@
     },
     {
       "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
       "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
     },
     {
       "name": "modmenu-11.0.4.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/modmenu-11.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar",
       "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a"
     },
     {
@@ -170,7 +190,7 @@
     },
     {
       "name": "naturalist-2.0.3-fabric-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/naturalist-2.0.3-fabric-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/DwMaTECx/naturalist-2.0.3-fabric-1.21.1.jar",
       "sha1": "0f12c41e514a553a3188699112761f2d6b6521e5"
     },
     {
@@ -180,17 +200,22 @@
     },
     {
       "name": "owo-lib-0.12.15.4+1.21.jar",
-      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/owo-lib-0.12.15.4%2B1.21.jar",
       "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d"
     },
     {
       "name": "pneumonocore-1.3.1+1.21+A (1).jar",
-      "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2Wljsd7H/pneumonocore-1.3.1%2B1.21%2BA.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/pneumonocore-1.3.1%2B1.21%2BA%20(1).jar",
       "sha1": "90bacd36b8cd5eaccbece3a7e4a85e198aa8822b"
     },
     {
+      "name": "simplehats-fabric-1.21.1-0.4.0.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/simplehats-fabric-1.21.1-0.4.0.jar",
+      "sha1": "f5ccce6c497bf8376b2c56f04d5e14c52bb72cb1"
+    },
+    {
       "name": "skinrestorer-2.10.0+1.21-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/BmUANmui/skinrestorer-2.10.0%2B1.21-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/skinrestorer-2.10.0%2B1.21-fabric.jar",
       "sha1": "b97e0dc80690effd7e183d2076b4fdb2299f06cb"
     },
     {
@@ -199,18 +224,28 @@
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
     },
     {
+      "name": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "sha1": "43a95dfa338a2a6ba3ea33a5efa0ac040331e50c"
+    },
+    {
+      "name": "sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+      "sha1": "bfdf71e189715206733692d7c1f60af589e79d23"
+    },
+    {
       "name": "stablefps-1.1.0+fabric-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/34bUK7a0/versions/8pnpz80l/stablefps-1.1.0%2Bfabric-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/stablefps-1.1.0%2Bfabric-1.21.1.jar",
       "sha1": "6590e77bae9eb738319bc688d9e4472e8b289331"
     },
     {
       "name": "supplementaries-1.21.1-3.9.6-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/ecPmpscM/supplementaries-1.21.1-3.9.6-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/supplementaries-1.21.1-3.9.6-fabric.jar",
       "sha1": "63d372625fcd4d6c517fff74952158bdfc482b42"
     },
     {
       "name": "torchmaster-fabric-1.21.1-21.1.11.jar",
-      "url": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/bhibJMYz/torchmaster-fabric-1.21.1-21.1.11.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/torchmaster-fabric-1.21.1-21.1.11.jar",
       "sha1": "97a64bef09b920e7c0adb424107a917f203f6308"
     },
     {
@@ -230,7 +265,7 @@
     },
     {
       "name": "xaerominimap-fabric-1.21.1-26.4.2.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/xaerominimap-fabric-1.21.1-26.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Tx54V6kI/xaerominimap-fabric-1.21.1-26.4.2.jar",
       "sha1": "9293ef9b2626ae3180625c003290a838879cc0b4"
     },
     {
@@ -250,5 +285,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-10T14:39:01.167Z"
+  "updatedAt": "2026-09-11T15:03:24.056Z"
 }
