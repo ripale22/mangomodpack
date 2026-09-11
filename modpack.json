@@ -9,6 +9,11 @@
   },
   "mods": [
     {
+      "name": "Camerapture-1.10.12+mc1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/RYOi2mzR/Camerapture-1.10.12%2Bmc1.21.1-fabric.jar",
+      "sha1": "d56dd4e60c04b6cb6487eeeb6d1c154bf610f708"
+    },
+    {
       "name": "DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
       "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/g8oglmT0/DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
       "sha1": "67c35d9a55e1f16ae5b7b00d180f61a1578476fb"
@@ -295,5 +300,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-11T17:08:57.277Z"
+  "updatedAt": "2026-09-11T22:33:44.307Z"
 }
