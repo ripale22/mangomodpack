@@ -5,7 +5,7 @@
   "minecraftVersion": "1.21.1",
   "loader": {
     "type": "fabric",
-    "version": "0.19.5"
+    "version": "0.16.10"
   },
   "mods": [
     {
@@ -70,7 +70,7 @@
     },
     {
       "name": "balm-fabric-1.21.1-21.0.65.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/balm-fabric-1.21.1-21.0.65.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/VynBiUHt/balm-fabric-1.21.1-21.0.65.jar",
       "sha1": "26d3c9bb16cee40bf76371680e248d2f9c7f4690"
     },
     {
@@ -95,12 +95,12 @@
     },
     {
       "name": "cloth-config-15.0.140-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/cloth-config-15.0.140-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
     },
     {
       "name": "croptopia-refabricated-0.1.0+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/croptopia-refabricated-0.1.0%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/unvZ692M/versions/1Sj2O4n1/croptopia-refabricated-0.1.0%2B1.21.1.jar",
       "sha1": "e62b8d99e93cb013ed69061e159f47514033f46c"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "name": "entityculling-fabric-1.10.5-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/entityculling-fabric-1.10.5-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar",
       "sha1": "7e8c9c44049e6575e75d1fe38d6006306b8d5623"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "name": "geckolib-fabric-1.21.1-4.9.2.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/geckolib-fabric-1.21.1-4.9.2.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dnJdtm0u/geckolib-fabric-1.21.1-4.9.2.jar",
       "sha1": "b95b1d631baeada54c6773ca8f6ede40d57fea46"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
       "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5"
     },
     {
@@ -170,7 +170,7 @@
     },
     {
       "name": "lambdynamiclights-4.8.11+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
       "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
     },
     {
@@ -190,7 +190,7 @@
     },
     {
       "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
       "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
     },
     {
@@ -210,7 +210,7 @@
     },
     {
       "name": "onlyhammersandexcavators-1.21.1-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/onlyhammersandexcavators-1.21.1-1.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/OwtcCsNI/versions/33NfvM5q/1.21.1-1.21.1-1.0.0.jar",
       "sha1": "0f0112aaeb24ab7d9c36c47310e630914a555bff"
     },
     {
@@ -220,7 +220,7 @@
     },
     {
       "name": "pneumonocore-1.3.1+1.21+A.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/pneumonocore-1.3.1%2B1.21%2BA.jar",
+      "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2Wljsd7H/pneumonocore-1.3.1%2B1.21%2BA.jar",
       "sha1": "90bacd36b8cd5eaccbece3a7e4a85e198aa8822b"
     },
     {
@@ -240,7 +240,7 @@
     },
     {
       "name": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
       "sha1": "43a95dfa338a2a6ba3ea33a5efa0ac040331e50c"
     },
     {
@@ -250,12 +250,12 @@
     },
     {
       "name": "stablefps-1.1.0+fabric-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/stablefps-1.1.0%2Bfabric-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/34bUK7a0/versions/8pnpz80l/stablefps-1.1.0%2Bfabric-1.21.1.jar",
       "sha1": "6590e77bae9eb738319bc688d9e4472e8b289331"
     },
     {
       "name": "supplementaries-1.21.1-3.9.6-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/supplementaries-1.21.1-3.9.6-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/ecPmpscM/supplementaries-1.21.1-3.9.6-fabric.jar",
       "sha1": "63d372625fcd4d6c517fff74952158bdfc482b42"
     },
     {
@@ -265,12 +265,12 @@
     },
     {
       "name": "travelersbackpack-fabric-1.21.1-10.1.39.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/travelersbackpack-fabric-1.21.1-10.1.39.jar",
+      "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/npKsvQvE/travelersbackpack-fabric-1.21.1-10.1.39.jar",
       "sha1": "d74374cfe5ef7d4afb4a6a3c2c9f48e41f334a8d"
     },
     {
       "name": "trinkets-3.10.0.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/trinkets-3.10.0.jar",
+      "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "name": "xaeroworldmap-fabric-1.21.1-1.45.0.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/xaeroworldmap-fabric-1.21.1-1.45.0.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/i80CxP4n/xaeroworldmap-fabric-1.21.1-1.45.0.jar",
       "sha1": "ebcaef4da6bc5feab9af80d31223e1833960e71d"
     },
     {
@@ -300,5 +300,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-12T01:11:54.906Z"
+  "updatedAt": "2026-09-12T01:11:54.303Z"
 }
