@@ -184,6 +184,11 @@
       "sha1": "cc4494359564dc71e149df7b981d9c4d4f3260a7"
     },
     {
+      "name": "lootr-fabric-1.21.1-1.11.38.125.jar",
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/AG7Yn97n/lootr-fabric-1.21.1-1.11.38.125.jar",
+      "sha1": "1860c5ff5ecc7957a53af9c7fbf6e5b725860d02"
+    },
+    {
       "name": "medievalweapons-1.6.1.jar",
       "url": "https://cdn.modrinth.com/data/C37HUu02/versions/fMIp8vXf/medievalweapons-1.6.1.jar",
       "sha1": "74d3c54712edf3fc3a4a6e929d97bc3b70eef9e2"
@@ -300,5 +305,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-13T01:54:25.603Z"
+  "updatedAt": "2026-09-13T01:54:47.895Z"
 }
