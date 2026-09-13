@@ -1,6 +1,6 @@
 {
   "modpackName": "mangoZzz",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Modpack sincronizado automáticamente con GitHub",
   "minecraftVersion": "1.21.1",
   "loader": {
@@ -302,8 +302,58 @@
       "name": "zoomify-2.15.2+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
       "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
+    },
+    {
+      "name": "bettercombat-fabric-2.4.0+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/JJQpBecL/bettercombat-fabric-2.4.0%2B1.21.1.jar",
+      "sha1": "38d1d1f22e9255092baf85abf93a3b9746fa6ed1"
+    },
+    {
+      "name": "combat_roll-fabric-2.0.6+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/UkTSsgGt/combat_roll-fabric-2.0.6%2B1.21.1.jar",
+      "sha1": "29ab57ff85914dd8dc20a350620c00dc5af9efec"
+    },
+    {
+      "name": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/CkedfDp3/player-animation-lib-fabric-2.0.4%2B1.21.1.jar",
+      "sha1": "2985c208766cde078a39c22b5ad989b74b7bc490"
+    },
+    {
+      "name": "BOMD-1.10.2-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar",
+      "sha1": "98d20fba57e2ecbf309e15285449cb91eee19bda"
+    },
+    {
+      "name": "artifacts-fabric-13.2.4.jar",
+      "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/cTss6Iq4/artifacts-fabric-13.2.4.jar",
+      "sha1": "58c9d21078945dec2d20df05aeacd635be9d3502"
+    },
+    {
+      "name": "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+      "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/fQ7EjDPE/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+      "sha1": "1596a14713ed6c1d9deb5a3a328774e9bfa39de6"
+    },
+    {
+      "name": "YungsApi-1.21.1-Fabric-5.1.8.jar",
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/okaPlkwI/YungsApi-1.21.1-Fabric-5.1.8.jar",
+      "sha1": "236bc0bf7e907b25078a7c41300426443153138d"
+    },
+    {
+      "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+      "sha1": "642a672cfc60ff1e1262a39d7e160b1381c5120c"
+    },
+    {
+      "name": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "sha1": "14628ba309d876cfefc4cef864a66ef12812066c"
+    },
+    {
+      "name": "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
+      "sha1": "c0ee92c6d8a48e077aa9b02f3470619eab17d59c"
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-13T12:46:47.065Z"
+  "updatedAt": "2026-09-13T13:30:00.000Z"
 }
