@@ -5,7 +5,7 @@
   "minecraftVersion": "1.21.1",
   "loader": {
     "type": "fabric",
-    "version": "0.19.5"
+    "version": "0.16.10"
   },
   "mods": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "name": "ash_api-fabric-21.1.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/ash_api-fabric-21.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/Q8xUICr6/versions/AJvTjiyY/ash_api-fabric-21.1.1.jar",
       "sha1": "a8f23b1a0556563003d2f89bd28c8b30ef11ea79"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "name": "croptopia-refabricated-0.1.0+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/croptopia-refabricated-0.1.0%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/unvZ692M/versions/1Sj2O4n1/croptopia-refabricated-0.1.0%2B1.21.1.jar",
       "sha1": "e62b8d99e93cb013ed69061e159f47514033f46c"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "name": "entity_model_features-3.3.5-1.21-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/entity_model_features-3.3.5-1.21-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/wXNAvHgN/entity_model_features-3.3.5-1.21-fabric.jar",
       "sha1": "d4ae1f29e1e97181d53621f17de25d96f3ee0060"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "name": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
       "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5"
     },
     {
@@ -155,12 +155,12 @@
     },
     {
       "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
       "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5"
     },
     {
       "name": "jei-1.21.1-fabric-19.51.0.417.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/jei-1.21.1-fabric-19.51.0.417.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HiKjYsTR/jei-1.21.1-fabric-19.51.0.417.jar",
       "sha1": "ace6b52b1dc79c1c6d620d3ae94945e4060412e5"
     },
     {
@@ -175,7 +175,7 @@
     },
     {
       "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
       "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
     },
     {
@@ -200,7 +200,7 @@
     },
     {
       "name": "modmenu-11.0.4.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/modmenu-11.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar",
       "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "name": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
       "sha1": "43a95dfa338a2a6ba3ea33a5efa0ac040331e50c"
     },
     {
@@ -265,12 +265,12 @@
     },
     {
       "name": "torchmaster-fabric-1.21.1-21.1.11.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/torchmaster-fabric-1.21.1-21.1.11.jar",
+      "url": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/bhibJMYz/torchmaster-fabric-1.21.1-21.1.11.jar",
       "sha1": "97a64bef09b920e7c0adb424107a917f203f6308"
     },
     {
       "name": "travelersbackpack-fabric-1.21.1-10.1.39.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/travelersbackpack-fabric-1.21.1-10.1.39.jar",
+      "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/npKsvQvE/travelersbackpack-fabric-1.21.1-10.1.39.jar",
       "sha1": "d74374cfe5ef7d4afb4a6a3c2c9f48e41f334a8d"
     },
     {
@@ -305,5 +305,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-13T13:11:29.132Z"
+  "updatedAt": "2026-09-13T15:09:52.700Z"
 }
