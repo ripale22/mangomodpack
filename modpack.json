@@ -274,6 +274,11 @@
       "sha1": "d74374cfe5ef7d4afb4a6a3c2c9f48e41f334a8d"
     },
     {
+      "name": "trek-B0.6.2.jar",
+      "url": "https://cdn.modrinth.com/data/h2jngREY/versions/OYbFzi8L/trek-B0.6.2.jar",
+      "sha1": "e83cbdbe987129cb039ead47d11994d8cbdb1ade"
+    },
+    {
       "name": "trinkets-3.10.0.jar",
       "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
@@ -305,5 +310,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-17T19:45:55.063Z"
+  "updatedAt": "2026-09-17T22:34:48.019Z"
 }
