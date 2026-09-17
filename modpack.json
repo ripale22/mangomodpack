@@ -34,11 +34,6 @@
       "sha1": "bed67c605cbc991f474b270581cfa04ed48228df"
     },
     {
-      "name": "OverweightFarming-1.21.1-2.2.0-NeoForge.jar",
-      "url": "https://cdn.modrinth.com/data/bCxmmxKN/versions/9w8TG5JN/OverweightFarming-1.21.1-2.2.0-NeoForge.jar",
-      "sha1": "61fb634c5be1635abbc7b92756129de449864924"
-    },
-    {
       "name": "Terralith_1.21.x_v2.6.2.jar",
       "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/eWDLFabb/Terralith_1.21.x_v2.6.2.jar",
       "sha1": "c200e0c01f48aecd7f34c4be337d8ff65b60c2dc"
@@ -330,5 +325,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-17T22:39:52.207Z"
+  "updatedAt": "2026-09-17T22:40:01.482Z"
 }
