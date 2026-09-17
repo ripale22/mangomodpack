@@ -34,6 +34,16 @@
       "sha1": "bed67c605cbc991f474b270581cfa04ed48228df"
     },
     {
+      "name": "LuckPerms-Bukkit-5.5.84.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/LuckPerms-Bukkit-5.5.84.jar",
+      "sha1": "610603b1c420668074e37102ac354b79fc5f9daf"
+    },
+    {
+      "name": "OverweightFarming-1.21.1-2.2.0-NeoForge.jar",
+      "url": "https://cdn.modrinth.com/data/bCxmmxKN/versions/9w8TG5JN/OverweightFarming-1.21.1-2.2.0-NeoForge.jar",
+      "sha1": "61fb634c5be1635abbc7b92756129de449864924"
+    },
+    {
       "name": "Terralith_1.21.x_v2.6.2.jar",
       "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/eWDLFabb/Terralith_1.21.x_v2.6.2.jar",
       "sha1": "c200e0c01f48aecd7f34c4be337d8ff65b60c2dc"
@@ -109,6 +119,11 @@
       "sha1": "0d719e7f63eb7d4c14cac09dd77632596a685288"
     },
     {
+      "name": "dungeons-and-taverns-v4.4.4.jar",
+      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EUlNXs9V/dungeons-and-taverns-v4.4.4.jar",
+      "sha1": "68c6f0dea960ce94f55f1f05d8893623da207be8"
+    },
+    {
       "name": "entity_model_features-3.3.5-1.21-fabric.jar",
       "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/wXNAvHgN/entity_model_features-3.3.5-1.21-fabric.jar",
       "sha1": "d4ae1f29e1e97181d53621f17de25d96f3ee0060"
@@ -172,6 +187,16 @@
       "name": "lambdynamiclights-4.8.11+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
       "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
+    },
+    {
+      "name": "letsdo-meadow-fabric-1.4.8.jar",
+      "url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/ZTkxt65d/letsdo-meadow-fabric-1.4.8.jar",
+      "sha1": "a2d3f09ecad2415a6e3a8b4fd91f9701f75adedc"
+    },
+    {
+      "name": "letsdo-vinery-fabric-1.5.3.jar",
+      "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/BV45cdzS/letsdo-vinery-fabric-1.5.3.jar",
+      "sha1": "df3c9ca6a335651f3da77d489ba7a517bc0f3feb"
     },
     {
       "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
@@ -310,5 +335,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-17T22:34:48.019Z"
+  "updatedAt": "2026-09-17T22:38:02.386Z"
 }
