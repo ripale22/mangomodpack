@@ -34,11 +34,6 @@
       "sha1": "bed67c605cbc991f474b270581cfa04ed48228df"
     },
     {
-      "name": "LuckPerms-Bukkit-5.5.84.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/LuckPerms-Bukkit-5.5.84.jar",
-      "sha1": "610603b1c420668074e37102ac354b79fc5f9daf"
-    },
-    {
       "name": "OverweightFarming-1.21.1-2.2.0-NeoForge.jar",
       "url": "https://cdn.modrinth.com/data/bCxmmxKN/versions/9w8TG5JN/OverweightFarming-1.21.1-2.2.0-NeoForge.jar",
       "sha1": "61fb634c5be1635abbc7b92756129de449864924"
@@ -335,5 +330,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-17T22:38:02.386Z"
+  "updatedAt": "2026-09-17T22:39:52.207Z"
 }
