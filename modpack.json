@@ -244,6 +244,11 @@
       "sha1": "90bacd36b8cd5eaccbece3a7e4a85e198aa8822b"
     },
     {
+      "name": "silkspawners-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/silkspawners-1.0.0.jar",
+      "sha1": "7a5258a854393a12782a646072d4b7e5610106c8"
+    },
+    {
       "name": "simplehats-fabric-1.21.1-0.4.0.jar",
       "url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/nV0q5j3l/simplehats-fabric-1.21.1-0.4.0.jar",
       "sha1": "f5ccce6c497bf8376b2c56f04d5e14c52bb72cb1"
@@ -325,5 +330,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-18T19:56:08.300Z"
+  "updatedAt": "2026-09-21T17:32:13.245Z"
 }
