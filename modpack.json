@@ -39,6 +39,11 @@
       "sha1": "c200e0c01f48aecd7f34c4be337d8ff65b60c2dc"
     },
     {
+      "name": "WI-Zoom-1.7-MC1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/WI-Zoom-1.7-MC1.21.1.jar",
+      "sha1": "aa9e7b190b7dfc6b468767efb1db2ba857c3d907"
+    },
+    {
       "name": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar",
       "sha1": "fa0b11de088893bb14aff945d0e8efdee165457b"
@@ -330,5 +335,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-26T01:21:57.207Z"
+  "updatedAt": "2026-09-26T01:27:17.528Z"
 }
