@@ -39,6 +39,11 @@
       "sha1": "ea644299ba702ed32f20aec77140fb5ba9e9242d"
     },
     {
+      "name": "OELib-fabric-1.21.1-0.2.3.jar",
+      "url": "https://cdn.modrinth.com/data/7ODqOXka/versions/YoXfVUVc/OELib-fabric-1.21.1-0.2.3.jar",
+      "sha1": "ee27d44a7c038ef36e1c7eae2a8e7cc972eaf8e1"
+    },
+    {
       "name": "SimplyTooltips-fabric-0.1.5.jar",
       "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/JNwqmYnu/SimplyTooltips-fabric-0.1.5.jar",
       "sha1": "2eb686991b9ca32fc9498bc05a9fd3b42f0b60a0"
@@ -390,5 +395,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-27T17:48:38.132Z"
+  "updatedAt": "2026-09-27T17:49:02.684Z"
 }
