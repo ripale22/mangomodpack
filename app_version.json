@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
-  "releaseDate": "2026-09-26",
+  "version": "1.0.12",
+  "releaseDate": "2026-09-27",
   "releaseNotes": "Optimizaciones de rendimiento, nuevo logo y soporte completo Windows/Linux",
-  "linuxUrl": "https://github.com/ripale22/mangomodpack/releases/download/v1.0.11/Minecraft.MiniLauncher.1.0.11.AppImage",
-  "windowsUrl": "https://github.com/ripale22/mangomodpack/releases/download/v1.0.11/Minecraft.MiniLauncher.Setup.1.0.11.exe",
-  "releaseUrl": "https://github.com/ripale22/mangomodpack/releases/tag/v1.0.11",
-  "windowsSha256": "ec1c2d344171b82e7b0902b14427f49dc1a69246d58375e0c83029e7cd88c7a1"
+  "linuxUrl": "https://github.com/ripale22/mangomodpack/releases/download/v1.0.12/Minecraft.MiniLauncher.1.0.12.AppImage",
+  "windowsUrl": "https://github.com/ripale22/mangomodpack/releases/download/v1.0.12/Minecraft.MiniLauncher.Setup.1.0.12.exe",
+  "releaseUrl": "https://github.com/ripale22/mangomodpack/releases/tag/v1.0.12",
+  "windowsSha256": "74e48c7e54103590511a8ee9caf9bd6f2ec41691699d42df10442b2cbfc53cce"
 }
