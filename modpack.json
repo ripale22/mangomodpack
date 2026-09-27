@@ -279,6 +279,11 @@
       "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d"
     },
     {
+      "name": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/CkedfDp3/player-animation-lib-fabric-2.0.4%2B1.21.1.jar",
+      "sha1": "2985c208766cde078a39c22b5ad989b74b7bc490"
+    },
+    {
       "name": "plushables-fabric-2.3.3+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/bpUgmHBo/versions/Md5wdY6O/plushables-fabric-2.3.3%2B1.21.1.jar",
       "sha1": "9a29d6f3330c4f582fc8f16972e78201587c7f1f"
@@ -385,5 +390,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-27T17:47:39.564Z"
+  "updatedAt": "2026-09-27T17:48:38.132Z"
 }
