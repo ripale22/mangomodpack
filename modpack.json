@@ -374,6 +374,11 @@
       "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
     },
     {
+      "name": "voicechat-fabric-1.21.1-2.6.22.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
+      "sha1": "2b3f229ed746955b756807a92e09e9a32d636776"
+    },
+    {
       "name": "waystones-fabric-1.21.1-21.1.42.jar",
       "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Ado0lAPN/waystones-fabric-1.21.1-21.1.42.jar",
       "sha1": "281fead2fb284b0544ad17ba021a4c3656dfd5a4"
@@ -395,5 +400,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-09-27T17:54:12.284Z"
+  "updatedAt": "2026-09-28T18:08:20.391Z"
 }
