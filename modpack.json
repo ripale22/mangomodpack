@@ -174,6 +174,11 @@
       "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad"
     },
     {
+      "name": "framework-fabric-1.21.1-0.13.11.jar",
+      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/framework-fabric-1.21.1-0.13.11.jar",
+      "sha1": "87ce6c5c312da043e823e9407a04d307b5974d06"
+    },
+    {
       "name": "fzzy_config-0.7.7+1.21.jar",
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/zFccjYag/fzzy_config-0.7.7%2B1.21.jar",
       "sha1": "5e96a2f5b0a26417c7f10f5bdbeaa62ec4ec4cd9"
@@ -395,5 +400,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-01T19:06:51.998Z"
+  "updatedAt": "2026-10-01T19:08:29.844Z"
 }
