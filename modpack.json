@@ -14,6 +14,11 @@
       "sha1": "075cba0f21a12bf62b13ef6c58170dbfc4228244"
     },
     {
+      "name": "Chunky-Fabric-1.4.23.jar",
+      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar",
+      "sha1": "6c8098fc0f124c7b6492de60db0108747f7f9821"
+    },
+    {
       "name": "CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
       "url": "https://cdn.modrinth.com/data/MI1LWe93/versions/O6yuPiE8/CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
       "sha1": "1e12b0d7c310ad60bd648dd97cbc459ab57eaa38"
@@ -479,6 +484,11 @@
       "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd"
     },
     {
+      "name": "retrogen-fabric-1.21.1-1.0.jar",
+      "url": "https://cdn.modrinth.com/data/hlQaDBT7/versions/4wNcfA8J/retrogen-fabric-1.21.1-1.0.jar",
+      "sha1": "da90f524f655b6a354782d4fee111d2d5e6469ed"
+    },
+    {
       "name": "shieldexp-fabric-1.21.1-1.4.3.jar",
       "url": "https://cdn.modrinth.com/data/sjxWxSao/versions/qDyf2kOI/shieldexp-fabric-1.21.1-1.4.3.jar",
       "sha1": "aae225859fb76471234e5234b19a7fe283197c9e"
@@ -605,5 +615,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-10T19:41:31.139Z"
+  "updatedAt": "2026-10-10T20:36:16.459Z"
 }
