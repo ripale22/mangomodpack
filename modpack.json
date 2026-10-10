@@ -139,11 +139,6 @@
       "sha1": "18200609d4c3571c4237b50884966f6fd82431ea"
     },
     {
-      "name": "armor-hider-fabric-0.13.6+mc-1.21.0-1.jar",
-      "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/JRLBG75K/armor-hider-fabric-0.13.6%2Bmc-1.21.0-1.jar",
-      "sha1": "e052c9eb2eb7ba2f17cf18baf59751e7fbb46731"
-    },
-    {
       "name": "ash_api-fabric-21.1.1.jar",
       "url": "https://cdn.modrinth.com/data/Q8xUICr6/versions/AJvTjiyY/ash_api-fabric-21.1.1.jar",
       "sha1": "a8f23b1a0556563003d2f89bd28c8b30ef11ea79"
@@ -615,5 +610,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-10T20:36:16.459Z"
+  "updatedAt": "2026-10-10T20:52:20.735Z"
 }
