@@ -459,11 +459,6 @@
       "sha1": "bd1876929fdee030922da31c23134d56f4a679d1"
     },
     {
-      "name": "refurbished_furniture-fabric-1.21.1-1.0.22.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
-      "sha1": "86b532fc5fa10b6533ae8b00c1e564f0047994c2"
-    },
-    {
       "name": "regions-unexplored-0.6.2-fabric-21.1.jar",
       "url": "https://cdn.modrinth.com/data/Tkikq67H/versions/SffwLsGY/regions-unexplored-0.6.2-fabric-21.1.jar",
       "sha1": "35539f3d85e1c44576749cbc91ce270dee3e20c2"
@@ -610,5 +605,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-10T20:52:20.735Z"
+  "updatedAt": "2026-10-10T20:57:49.867Z"
 }
