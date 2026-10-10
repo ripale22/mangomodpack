@@ -289,11 +289,6 @@
       "sha1": "5e96a2f5b0a26417c7f10f5bdbeaa62ec4ec4cd9"
     },
     {
-      "name": "geckolib-fabric-1.21.1-4.9.2.jar",
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dnJdtm0u/geckolib-fabric-1.21.1-4.9.2.jar",
-      "sha1": "b95b1d631baeada54c6773ca8f6ede40d57fea46"
-    },
-    {
       "name": "geckolib-fabric-1.21.1-4.9.3.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tmxM7U4W/geckolib-fabric-1.21.1-4.9.3.jar",
       "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646"
@@ -600,5 +595,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-10T21:00:15.770Z"
+  "updatedAt": "2026-10-10T21:27:01.870Z"
 }
