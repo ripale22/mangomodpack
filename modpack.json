@@ -379,11 +379,6 @@
       "sha1": "d4831ec90d30cc18985f074bf9448c12c225cd67"
     },
     {
-      "name": "medievalweapons-1.6.1.jar",
-      "url": "https://cdn.modrinth.com/data/C37HUu02/versions/fMIp8vXf/medievalweapons-1.6.1.jar",
-      "sha1": "74d3c54712edf3fc3a4a6e929d97bc3b70eef9e2"
-    },
-    {
       "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
       "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
@@ -610,5 +605,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-10T19:35:44.134Z"
+  "updatedAt": "2026-10-10T19:41:31.139Z"
 }
