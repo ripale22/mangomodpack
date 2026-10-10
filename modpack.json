@@ -174,11 +174,6 @@
       "sha1": "c6cfd92af694102ee52ff1069f05804c75c0da7b"
     },
     {
-      "name": "camera-fabric-1.21.1-1.0.22.jar",
-      "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/camera-fabric-1.21.1-1.0.22.jar",
-      "sha1": "c4c9626fd1ce68528ee22c8b8dccd0a9f4f8978a"
-    },
-    {
       "name": "cardinal-components-api-6.1.3.jar",
       "url": "https://cdn.modrinth.com/data/K01OU20C/versions/nLsCe2VD/cardinal-components-api-6.1.3.jar",
       "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882"
@@ -605,5 +600,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-10T20:57:49.867Z"
+  "updatedAt": "2026-10-10T21:00:15.770Z"
 }
