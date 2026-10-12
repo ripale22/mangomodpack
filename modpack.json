@@ -86,7 +86,7 @@
     {
       "name": "PlayerRevive_FABRIC_v2.1.2_mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/mods/PlayerRevive_FABRIC_v2.1.2_mc1.21.1.jar",
-      "sha1": "36e07f48d8a2fef2c50151bc9e44695dca7f4f5b"
+      "sha1": "557714098120d45edd3e332cdb9df5441c809292"
     },
     {
       "name": "Ribbits-1.21.1-Fabric-4.1.6.jar",
@@ -605,5 +605,5 @@
     }
   ],
   "configZipUrl": "https://raw.githubusercontent.com/ripale22/mangomodpack/main/configs.zip",
-  "updatedAt": "2026-10-12T16:26:13.376Z"
+  "updatedAt": "2026-10-12T16:28:31.637Z"
 }
